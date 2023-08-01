@@ -1,6 +1,6 @@
 # Async Inn Management System
 
-**Author**: Your Name(s) Goes Here
+**Author**: Mollemira Porphura
 **Version**: 1.0.0
 
 ## Overview
